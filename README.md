@@ -58,8 +58,11 @@ Configure o arquivo .env com os IPs dos serviços:
 Snippet de código
 
 VITE_API_IAM_URL=http://localhost:8080/v1
+
 VITE_API_TASK_URL=http://localhost:8081/v1
+
 VITE_NOTIFICATION_TASK_URL=http://localhost:8082/v1
+
 VITE_MQTT_HOST=localhost
 
 Inicie o servidor de desenvolvimento:
